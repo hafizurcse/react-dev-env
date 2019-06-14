@@ -1,7 +1,7 @@
 # How to Get React Environment Ready
 ## Requirements
-* NPM
-* Node.js
+* [NPM](https://www.npmjs.com/)
+* [Node.js](https://nodejs.org/)
 
 ## Install `create-react-app`
 
