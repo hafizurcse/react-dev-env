@@ -34,4 +34,5 @@ npm start
 A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar.
 
 The result:
+
 ![react_running_local](./screenshot_myfirstreact.png)
